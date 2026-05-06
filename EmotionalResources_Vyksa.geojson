@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "EmoResourcesVyksa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "resource": "Выксунский металлургический завод", "perception": 1.25, "appropriation": 4.0, "size": 4, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.154957175111441, 55.325800063757946 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "resource": "Набережная Верхневыксунского пруда", "perception": 1.777777778, "appropriation": 3.777777778, "size": 9, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.183105764718825, 55.312616290110391 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "resource": "Дом-музей Баташёвых", "perception": 1.8, "appropriation": 4.0, "size": 5, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.184002154122069, 55.315783632747596 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "resource": "Центральный парк", "perception": 2.0, "appropriation": 3.714285714, "size": 7, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.187072127340841, 55.321869373622711 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "resource": "Пруд Лебединка", "perception": 2.0, "appropriation": 3.0, "size": 2, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.190380549103999, 55.321133109687949 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "resource": "Скульптура \"Единорог\"", "perception": 2.0, "appropriation": 4.0, "size": 2, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.189926405735136, 55.321068510438344 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "resource": "Запасный пруд", "perception": 1.5, "appropriation": 2.0, "size": 2, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.149503812149256, 55.295607013770613 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "resource": "Нижний пруд", "perception": 1.0, "appropriation": 0.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.147172446533482, 55.316449183970192 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "resource": "Кольцевая развязка ул. Ленина", "perception": 2.0, "appropriation": 3.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.151701490428962, 55.31976490642765 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "resource": "Христово-Рождественская церковь", "perception": 1.0, "appropriation": 2.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.1914097027162, 55.315193039970175 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "resource": "Стадион", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.182570629636025, 55.316867075563422 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "resource": "Площадь Октябрьской Революции", "perception": 1.666666667, "appropriation": 2.666666667, "size": 3, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.177613786264423, 55.327637197243206 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "resource": "Посадка", "perception": 2.0, "appropriation": 3.333333333, "size": 3, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.173814093287525, 55.324462681949058 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "resource": "Городской рынок", "perception": 1.0, "appropriation": 1.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.175222927755989, 55.322097684974722 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "resource": "Муралы", "perception": 1.0, "appropriation": 3.0, "size": 3, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.176311453635385, 55.318365764291087 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "resource": "Арт-резиденция \"Волна\"", "perception": 2.0, "appropriation": 3.5, "size": 2, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 42.151619069314563, 55.317288380024351 ] } }
+]
+}

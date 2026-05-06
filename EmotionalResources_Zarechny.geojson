@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "EmoResourcesZarechny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "resource": "Зона отдыха Лесная", "perception": 1.714285714, "appropriation": 3.142857143, "size": 7, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.162254841703223, 53.186705545164713 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "resource": "Центральный парк Заречье", "perception": 2.0, "appropriation": 2.8, "size": 5, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.16609530312806, 53.196617435445702 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "resource": "Лермонтовский парк", "perception": 1.0, "appropriation": 4.0, "size": 5, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.184134487733736, 53.200202376104308 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "resource": "Стадион", "perception": 0.5, "appropriation": 2.0, "size": 2, "category": "neu_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.184584379640405, 53.197357616522225 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "resource": "ПО \"Старт\"", "perception": 0.5, "appropriation": 4.0, "size": 2, "category": "neu_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.189755871416068, 53.191958026575712 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "resource": "Сквер Демакова", "perception": 2.0, "appropriation": 1.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.163477363822665, 53.201177092836076 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "resource": "Родник", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.163199816865415, 53.17896198317618 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "resource": "Музейно-выставочный центр", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.182098416828964, 53.196186104801455 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "resource": "Площадь Ленина", "perception": 1.0, "appropriation": 3.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.169154230832198, 53.196044478911645 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "resource": "Мемориал победы", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.17163679967247, 53.196564752082253 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "resource": "Детская школа искусств", "perception": 2.0, "appropriation": 3.666666667, "size": 3, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.165584812072872, 53.200595958191442 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "resource": "Храм Серафима Саровского", "perception": 1.5, "appropriation": 3.5, "size": 2, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.154679635511258, 53.190768678775527 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "resource": "ДК Современник", "perception": 2.0, "appropriation": 3.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.181664106703629, 53.199042356272521 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "resource": "ТЮЗ", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.174064490182374, 53.197773317891439 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "resource": "ТЦ Дубрава", "perception": 0.0, "appropriation": 0.0, "size": 1, "category": "neu_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.166223326086012, 53.19244957074369 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "resource": "Памятник Пропуск", "perception": 1.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.175018880215482, 53.198236329202047 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "resource": "Бассейн Заречный", "perception": 1.0, "appropriation": 0.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.160496747351523, 53.183352943038166 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "resource": "Библиотека", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.157062538066675, 53.198357524236428 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "resource": "Культурный центр Ровесник", "perception": 1.0, "appropriation": 0.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.173809044654575, 53.195749573918555 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "resource": "Бывшее МГ Горэлектросталь", "perception": 1.0, "appropriation": 0.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 45.177755700090039, 53.19065614992877 ] } }
+]
+}

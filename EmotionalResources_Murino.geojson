@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "EmoResourcesMurino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "resource": "Поле между Муриным и Буграми", "perception": 1.2, "appropriation": 3.8, "size": 5, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.421372246727003, 60.064020520681304 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "resource": "Бульвар Менделеева", "perception": 1.4, "appropriation": 4.0, "size": 5, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.43385650468327, 60.052122077792419 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "resource": "Екатерининская улица", "perception": 1.6, "appropriation": 1.4, "size": 5, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.440099190087935, 60.062935956183757 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "resource": "Привокзальная площадь", "perception": -0.5, "appropriation": 4.0, "size": 2, "category": "neu_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.444618290660546, 60.050386302246551 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "resource": "Станция метро Девяткино", "perception": -2.0, "appropriation": 3.8, "size": 5, "category": "neg_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.442655551212539, 60.050301431658724 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "resource": "парк Лаврики", "perception": 1.333333333, "appropriation": 2.0, "size": 3, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.445095576958746, 60.071175908721408 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "resource": "окраины у деревни Лаврики", "perception": -1.333333333, "appropriation": 1.666666667, "size": 3, "category": "neg_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.452818070286668, 60.071545765700769 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "resource": "Бульвар Менделеева, 2", "perception": 2.0, "appropriation": 0.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.435436823268489, 60.052170694336397 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "resource": "Воронцовский бульвар, 14", "perception": 2.0, "appropriation": 3.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.425007365568902, 60.060872891073913 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "resource": "Мемориал Героям посёлка Мурино", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.450785440420461, 60.04546613210028 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "resource": "Церковь святой великомученицы Екатерины", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.443161093061434, 60.043660924347087 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "resource": "Графский пруд", "perception": 2.0, "appropriation": 4.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.457883249048283, 60.045296050165405 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "resource": "ТЦ Экопарк", "perception": 0.0, "appropriation": 3.0, "size": 1, "category": "neu_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.425003789717575, 60.048420947904326 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "resource": "Ресторан Токио-Сити", "perception": 2.0, "appropriation": 3.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.437813699675281, 60.051646933886808 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "resource": "Кофейня Все дома", "perception": 2.0, "appropriation": 0.0, "size": 1, "category": "pos_per", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.442313598188527, 60.064835623741338 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "resource": "Магазин Мясной№1", "perception": 2.0, "appropriation": 3.0, "size": 1, "category": "pos_app", "weight": 1.0 }, "geometry": { "type": "Point", "coordinates": [ 30.437859625218117, 60.051375640292939 ] } }
+]
+}
